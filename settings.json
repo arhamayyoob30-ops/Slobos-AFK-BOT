@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Dx_Stark.aternos.me",
+    "ip": "Dx_Stark.aternos.me:61945",
     "port": 61945,
     "version": "1.21.1"
   },
